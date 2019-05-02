@@ -1,0 +1,18 @@
+.organizers {
+  color: gray;
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+}
+
+.organizers h3 {
+  color: black;
+}
+
+a {
+  color: #db323b;
+  font-style: italic;
+}
+
+a:hover {
+  color: #ae3034;
+}
