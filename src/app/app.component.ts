@@ -11,7 +11,7 @@ export class AppComponent  {
 
   socialLinks = [
     {name:'twitter', link:'https://twitter.com/AngularCR'},
-    {name:'facebook', link:'https://twitter.com/AngularCR'},
+    {name:'facebook', link:'https://www.facebook.com/angularcostarica'},
     {name:'medium', link:'https://medium.com/angularcostarica'},
     {name:'youtube',link:'https://www.youtube.com/channel/UC4vCnqA5s8IR2zCcSXp63_w'}
   ];
